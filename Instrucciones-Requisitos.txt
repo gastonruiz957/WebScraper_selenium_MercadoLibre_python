@@ -1,0 +1,16 @@
+﻿Instrucciones para poder correr:
+
+1)crear un proyecto en Google for develeopers para poder habilitar las APIS:
+	-GOOGLE DRIVE
+	-SHEET GOOGLE
+	Con estas APIS habilitadas descargar las credenciales que me serviran para enlazar 
+	el selenium. Crear el documento compartido en Google drive y compartir con el correo electronico
+	que este en la credenciales y darles permiso para editar.
+2)El archivo geckodriver (que esta en la carpeta) mover el ejecutable al directorio
+	siguiente C:\Users\...\AppData\Local\Programs\Python\Python38-32
+3)Tener instalada la ultima version de Mozilla Firefox
+4)Para el monitoreo de articulos via mail:
+		a) Verificacion de 2 pasos de una cuenta Google
+		b) A traves del App Passwords de la cuenta Google
+		c) Llenar los datos en la parte del codigo con las direcciones
+		   de origen - destino, usuario y contraseña.

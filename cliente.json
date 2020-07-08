@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "mercadolibre-webscraper",
+  "private_key_id": "ab11340eb32ed16a6522ffc229e8c8d026314390",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDr/9Xp2A1Rt7dQ\nFBauYoi+cxSoCN1eCxThhD5KX9BRpEG9AkvBUQesxldw0WU0TmhUUKGAhsvB8Tfd\nRN0Ul/ZqpF9LamKMo+OAR/6Cwb/ftTridvPqfOEQOFH6tPZ+CxnSh+HobNiFbTcc\nTfXM/kKDgsZNcfluTjXv0xsH/tLfBh6kuaAuAHcIwwWqkWzg5KaD1Yz82/n45C8k\nz2UEeofJbBW4AGbdoOWjzANXbBJ2axt97MNatjtw7jqTiga4a5ixH7Yrh7ot8yJY\nJgJWkE0zog5VSMv8ZZfmBaROONN6gD4/kJZT7JpiHNtPYWQL7Nxo3vldJKnkgCcd\nHh8DmiMlAgMBAAECggEABIjZqCDb3qhYSBxetDKV/IzTBoiHEl3FpLCpDr5JDyyI\nC9TttjTzoAz+lJ8dYfQouogDFmhgpWUYZPLECbeCx1lJsHYGlzu17RrVB9ens2l0\nzHGrLaQBIhHm91l/S/w0HpC4VUI0JdornypbUPlIt2StoULRn1422JkWkaCClkDr\nJV7NqOm5kH7aP/yrRdf7+S85UTAkzKHJU5sNKtlxi9Px5Pd4zN/7ehgaNC6ihSVl\nCxNyMHzVq3BZ+MdXkDaQKHjjgKTAAueDpmwG5IRHDZ0nMCbASHFTr/0zzeb0o30B\nDWGfeOa1QOkyEkvkHxs3WcvIIMBxdDkVz9K6SgGDWQKBgQD/igsQY9VTH4XT82Gp\n/fOixgN9GRVVf6SVXJOrR948j7O0jo1bRp8sDZ+t+n5j/d1OV9wT2o9sMz/lB9r3\n7WFFeGUmmefKLARuOzrAQ4vitNz4iDWkfuHxBB7X1eCJpcp9KAJjIoLTroidhExh\ntzyO+jmiIE+rQowJckR+heVP/QKBgQDsbMXVONXpxkoAtABKLVihg/FeiEADNENR\nvF2EzGTqweEYWWdNLxCygazOeCbrQAEVEgrwd462Yh4QMgR5XBDoVO0vwl1GoYOo\nSLF1S8DBUxH4nfkyU8P37uJRQG/CwJsDPLkTBD6yZgg5oJnUIeXUKfSxPW1srvTf\nBSf5fK3kSQKBgQCWt9a6vgdOVaNbVYte9hfDA8N+/1Jj8TsjlUzLk0HyulclwYaC\nNW8gTpDFzp7JXywuTwfQ9fHtwXSII0/1Nx9OGCqgz9m0lq2uTmTijXRuLHrAY6Yv\n9V5SBzoh11XuGckKdJSj3/EF5UVSkntyjt66/b8Mbr5Opptt3uWjMloECQKBgHiA\nXDj4FfdoDHHdTMSB5km0UUKoWVAIxEMVqei0sL8CgHMDpmYtleoVs/ksPlHrNmIB\n5zd3CHMnAUGp7KPaa/euyZFtFFOaoNsV6fTp3l3qtB8ujUO8dAabaBiXqh7uQlPd\nEEuD/1y4KnsMwzre6CBCHih0MaCSb9Z370724D6ZAoGAapcy9l9rjVVkg1hySsAG\nTu3lZthg8JmCUPxmJc+og9BsQdSy94iGqghcoPMxIF6DcUHHorpdmX3xGRr/sk+q\nGc2RRdX7HMMj6HsD0XkE2f8aTGhLSAYjayso9u/z3QmnrFzJESwvkO11b5YcqHn+\nq6djjO1S9lTbq9jcR+5jmx8=\n-----END PRIVATE KEY-----\n",
+  "client_email": "mercadolibre-webscraper@mercadolibre-webscraper.iam.gserviceaccount.com",
+  "client_id": "114272134441505181251",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/mercadolibre-webscraper%40mercadolibre-webscraper.iam.gserviceaccount.com"
+}
